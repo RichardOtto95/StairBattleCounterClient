@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "218373526971",
+    "project_id": "stairbattlecounter",
+    "storage_bucket": "stairbattlecounter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218373526971:android:40277b1cc689a41895209e",
+        "android_client_info": {
+          "package_name": "com.example.stair_battle_counter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218373526971-5u5b273qks5jf0s2v020k723k794vpc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA18X7YjvTHHKrxD1myAQ635EFY5nCh1oI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218373526971-5u5b273qks5jf0s2v020k723k794vpc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
